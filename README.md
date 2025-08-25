@@ -20,18 +20,17 @@ The goal of this repo is to document my learning journey, showcase my solutions 
 
 ## 📚 Progress Checklist
 
-Check off each course as you complete it!
-
-- [ ] 1. Machine Learning with Python
-- [ ] 2. Introduction to Deep Learning & Neural Networks with Keras
-- [ ] 3. Deep Learning with Keras and TensorFlow
-- [ ] 4. Introduction to Neural Networks and PyTorch
-- [ ] 5. Deep Learning with PyTorch
-- [ ] 6. AI Capstone Project with Deep Learning
-- [ ] 7. Generative AI and LLMs: Architecture and Data Preparation
-- [ ] 8. Gen AI Foundational Models for NLP & Language Understanding
-- [ ] 9. Generative AI Language Modeling with Transformers
-- [ ] 10. Generative AI Engineering and Fine-Tuning Transformers
-- [ ] 11. Generative AI Advanced Fine-Tuning for LLMs
-- [ ] 12. Fundamentals of AI Agents Using RAG and LangChain
-- [ ] 13. Project: Generative AI Applications with RAG and LangChain
+- [ ] Course 1: Machine Learning with Python
+    - [x] Module 1: Introduction to Machine Learning
+- [ ] Course 2: Introduction to Deep Learning & Neural Networks with Keras
+- [ ] Course 3: Deep Learning with Keras and TensorFlow
+- [ ] Course 4: Introduction to Neural Networks and PyTorch
+- [ ] Course 5: Deep Learning with PyTorch
+- [ ] Course 6: AI Capstone Project with Deep Learning
+- [ ] Course 7: Generative AI and LLMs: Architecture and Data Preparation
+- [ ] Course 8: Gen AI Foundational Models for NLP & Language Understanding
+- [ ] Course 9: Generative AI Language Modeling with Transformers
+- [ ] Course 10: Generative AI Engineering and Fine-Tuning Transformers
+- [ ] Course 11: Generative AI Advanced Fine-Tuning for LLMs
+- [ ] Course 12: Fundamentals of AI Agents Using RAG and LangChain
+- [ ] Course 13: Project: Generative AI Applications with RAG and LangChain
