@@ -22,6 +22,7 @@ The goal of this repo is to document my learning journey, showcase my solutions 
 
 - [ ] Course 1: Machine Learning with Python
     - [x] Module 1: Introduction to Machine Learning
+    - [x] Module 2: Linear and Logistic Regression
 - [ ] Course 2: Introduction to Deep Learning & Neural Networks with Keras
 - [ ] Course 3: Deep Learning with Keras and TensorFlow
 - [ ] Course 4: Introduction to Neural Networks and PyTorch
